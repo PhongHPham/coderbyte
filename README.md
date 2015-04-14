@@ -1,2 +1,6 @@
 # exercises
-challenges, exercises, and such...
+============
+My first repository on GitHub!
+To share challenges, exercises, and such...
+
+
