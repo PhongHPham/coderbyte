@@ -1,6 +1,7 @@
-# exercises
+# coderbyte challenges
 ============
 My first repository on GitHub!
-To share challenges, exercises, and such...
+To store my solutions to coderbyte challenges
 
 
+ 
